@@ -1,0 +1,3 @@
+Two types of scalling are available in system design
+1.  vertifical scalling (Increase the CPU and memory of single system)
+2. horizontal scalling (Create replica of machine)
