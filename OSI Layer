@@ -1,5 +1,5 @@
 OSI Layer
-1. Application Layer  - Brower
+1. Application Layer  - Browser
 2. Presentation Layer  - SSL , TLS
 3. Session Layer - Connection
 4. Transport Layer - TCP, UDP
