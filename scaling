@@ -1,3 +1,0 @@
-Two types of scaling are available in system design
-1.  vertical scaling (Increase the CPU and memory of single system)
-2. horizontal scaling (Create replica of machine)

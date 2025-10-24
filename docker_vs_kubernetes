@@ -1,0 +1,14 @@
+Two types of scaling are available in system design
+1.  vertical scaling (Increase the CPU and memory of single system)
+2. horizontal scaling (Create replica of machine)
+
+ Docker is used to build and create the images.
+ Docker is usefull when we required single container for lower environment development.
+
+  Pod is the smallest unit.  inside pod container will create (shared storage resources and network policy).
+
+kubernetes : container orchestration tool
+A node is a single computer or server, while a cluster is a group of two or more nodes that work together to provide high availability and handle larger workloads
+kubernetes will have master node and worker node(pod)  
+  
+  
