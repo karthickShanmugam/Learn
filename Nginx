@@ -1,5 +1,6 @@
 Type of nginx load balance: https://www.youtube.com/watch?v=_2Ys24VLT88&t=712s
 Docker and nginx installed
+Docker Command:  docker build -t <unique name>, docker run --m="250m" -cpus='' -p 8080:8080 <unique name>
 Type of laod balance in nginx: 
 1. Round robin
 2. Round robin with wight
