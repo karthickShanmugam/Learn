@@ -1,0 +1,3 @@
+Two types of Proxy
+1. Forward Proxy  (client -> forward proxy -> internet -> origin server )  Example: VPN
+2. Reverse Proxy  (client ->  internet -> forward Proxy -> origin server ) Example: Nginx, appache HTTP
