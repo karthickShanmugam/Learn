@@ -1,0 +1,8 @@
+OSI Layer
+1. Application Layer  - Brower
+2. Presentation Layer  - SSL , TLS
+3. Session Layer - Connection
+4. Transport Layer - TCP, UDP
+5. Network Layer - IP, ICMP
+6. Data link Layer - Wifi, Ethernet
+7. Physical Layer - fiber
