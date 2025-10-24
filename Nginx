@@ -1,1 +1,7 @@
 Type of nginx load balance: https://www.youtube.com/watch?v=_2Ys24VLT88&t=712s
+Docker and nginx installed
+Type of laod balance in nginx: 
+1. Round robin
+2. Round robin with wight
+3. least connection
+4. IP hash
